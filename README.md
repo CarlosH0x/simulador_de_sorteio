@@ -73,6 +73,14 @@ Percorre a lista de times de **2 em 2**, formando os pares de confronto.
 
 Por fim, os confrontos são exibidos na tela utilizando o `print` com `f-strings`, mostrando os jogos de ida e volta.
 
+---
+## 💻 Código
+
+O código completo do simulador está disponível aqui:
+
+👉 [sorteio_copa.py](sorteio_copa.py)
+
+---
 ## 📌 Sobre o projeto
 
 Aproveitei a ideia do sorteio da Copa do Brasil e busquei unir o que eu já sei em Python e criar um programa funcional relacionado a isso.
