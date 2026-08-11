@@ -1,3 +1,7 @@
+# Programa simulando o sorteio das Quartas de Final da Copa do Brasil 2026
+# Autor: Carlos Henrique
+# Data: 11/08/2026
+
 import random
 import time
 
